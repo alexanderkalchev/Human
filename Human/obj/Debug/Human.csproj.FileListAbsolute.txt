@@ -1,0 +1,8 @@
+D:\ИНФОРМАТИКА\Human\Human\bin\Debug\Human.exe.config
+D:\ИНФОРМАТИКА\Human\Human\bin\Debug\Human.exe
+D:\ИНФОРМАТИКА\Human\Human\bin\Debug\Human.pdb
+D:\ИНФОРМАТИКА\Human\Human\obj\Debug\Human.csproj.AssemblyReference.cache
+D:\ИНФОРМАТИКА\Human\Human\obj\Debug\Human.csproj.SuggestedBindingRedirects.cache
+D:\ИНФОРМАТИКА\Human\Human\obj\Debug\Human.csproj.CoreCompileInputs.cache
+D:\ИНФОРМАТИКА\Human\Human\obj\Debug\Human.exe
+D:\ИНФОРМАТИКА\Human\Human\obj\Debug\Human.pdb
